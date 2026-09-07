@@ -2,30 +2,36 @@
 
 **Engineering Management & On-Premise Industrial AI**
 
-Боевые системы, контуры КТПП/MES и модели предприятий развёрнуты локально под NDA и не подлежат открытой публикации. В профиле — личные инструменты, утилиты и открытые эксперименты.
-
-🌐 [aiprocesses.ru](https://aiprocesses.ru/)
+Инженерный менеджер с 17+ летним опытом в IT-инфраструктуре, цифровой трансформации и AI. Основная деятельность — развертывание локальных AI-систем, контуров КТПП/MES и моделей предприятий под NDA. В открытом доступе — личные инструменты, утилиты и эксперименты.
 
 ---
 
-## Projects
+## Featured projects
 
-- [Evocode](https://github.com/Bezooom/Evocode) — privacy-first AI IDE (VSCodium, локальные LLM, DLP)
-- [yandex-messenger-native](https://github.com/Bezooom/yandex-messenger-native) — нативный клиент Яндекс.Мессенджера (Rust + GTK4)
-- [t1d-simulator](https://github.com/Bezooom/t1d-simulator) — цифровой двойник для исследований диабета 1 типа
-
----
-
-## Focus
-
-- Agentic coding & AI-augmented engineering
-- Local-first tooling (LLM, DLP, on-prem)
-- Linux desktop apps (Rust, GTK4)
-- Scientific computing & simulation
+| Project | Стек | Что делает |
+|---|---|---|
+| [yandex-messenger-native](https://github.com/Bezooom/yandex-messenger-native) | Rust, GTK4, Libadwaita | Нативный десктопный клиент Яндекс.Мессенджера |
+| [Evocode](https://github.com/Bezooom/Evocode) | VSCodium, локальные LLM, DLP | Privacy-first AI IDE с фильтрацией данных |
+| [t1d-simulator](https://github.com/Bezooom/t1d-simulator) | Python, CFD | Мультифизический цифровой двойник диабета 1 типа |
 
 ---
 
-## Contact
+## Фокус
+
+- **On-Premise AI** — локальные LLM, RAG, DLP, on-prem inference
+- **Engineering Management** — цифровая трансформация, КТПП/MES, внедрения
+- **Desktop** — Rust, GTK4, Libadwaita, Linux-приложения
+- **Science** — симуляции, цифровые двойники, вычислительные модели
+
+---
+
+## Блог
+
+- 🇷🇺 [aiprocesses.ru](https://aiprocesses.ru/) — AI процессы и инженерные практики
+
+---
+
+## Контакт
 
 - ✉️ naumov122@gmail.com
 - 🌐 [aiprocesses.ru](https://aiprocesses.ru/)
