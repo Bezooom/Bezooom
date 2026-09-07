@@ -25,14 +25,14 @@
 
 ---
 
-## Блог
+## Сайт
 
-- 🇷🇺 [aiprocesses.ru](https://aiprocesses.ru/) — AI процессы и инженерные практики
+- 🇷🇺 [naumovai.ru](https://naumovai.ru/) — основная площадка
 
 ---
 
 ## Контакт
 
 - ✉️ naumov122@gmail.com
-- 🌐 [aiprocesses.ru](https://aiprocesses.ru/)
+- 🌐 [naumovai.ru](https://naumovai.ru/)
 - 💻 [github.com/Bezooom](https://github.com/Bezooom)
